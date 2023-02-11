@@ -16,6 +16,6 @@ after then we will await the fetch and weather data to be done
 and return the temp from inside main from the retrived data.
 
 to retrieve data i call method retrve data and it will await route.weather-data and the jsone alldata to be requested then return alldata
-finally update UI is called and it will await retrieveData to be done requesting and setting the data in variable allData, then using text content to write the output.
+finally update UI is called and it will await retrieveData to be done requesting and setting the data in variable allData, then using text content to write the output.qqq
 
 
